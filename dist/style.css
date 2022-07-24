@@ -1,0 +1,33 @@
+
+
+
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.card-header {
+  background-color: grey;
+  color: black;
+}
+
+.card-body {
+  background-color: grey;
+  color: black;
+}
+
+.container {
+  margin: 100px auto;
+  font-family: 'Montserrat', sans-serif;
+  
+  
+}
+.jumbotron {
+  text-align: center;
+  
+}
+
+
