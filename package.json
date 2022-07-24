@@ -6,9 +6,22 @@
   "scripts": {
     "test": "jest"
   },
-  
   "dependencies": {
-    "inquirer": "^6.5.0",
+    "inquirer": "^6.5.2",
     "jest": "^28.1.3"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidiro23/Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sidiro23/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Sidiro23/Team-Profile-Generator#readme"
 }
