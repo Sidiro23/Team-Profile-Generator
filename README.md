@@ -33,7 +33,8 @@
   ## Resources
   ### https://www.npmjs.com/
   ### https://developer.mozilla.org/en-US/
-  ### 
+  ### https://fonts.google.com/
+  ### https://getbootstrap.com/docs/4.6/getting-started/introduction/
   
   
 
